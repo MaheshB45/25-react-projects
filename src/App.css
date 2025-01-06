@@ -6,3 +6,9 @@
   text-align: center;
   /* gap: 20px; */
 }
+
+.App .heading {
+  margin-top: 8rem;
+  background-color: #000000;
+  color: #ffffff;
+}

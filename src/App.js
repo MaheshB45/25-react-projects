@@ -13,7 +13,7 @@ import menus from "./components/tree-view/data";
 function App() {
   return (
     <div className="App">
-      <h1>Machine Code Interview Tasks</h1>
+      <h1 className="heading">Machine Coding Interview Tasks</h1>
 
       {/* Accordian component */}
       <Accordian />
